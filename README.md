@@ -6,5 +6,5 @@ Included service are
 
 Made using Django and Celery
 
-# Simple Cloud Storage
-Simple File upload and Download Service
+# News Board
+Simple application for a news board where a certain news will be archived after one month (30 days)
