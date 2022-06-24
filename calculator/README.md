@@ -4,6 +4,6 @@ Django: <br>
 -pip install Django
 -pip install Celery
 
-Start the server with the command <br>
-python manage.py runserver
+Start the server with the command <br>  
+python manage.py runserver <br>
 To use the application go to localhost:8000
